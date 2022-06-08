@@ -16,7 +16,7 @@ function pizzas(){
 
 pizzas(ingredientes);
 
-console.log("Los pares son "+ pares + " y los impares son "+ impares)
+console.log("Los ingredientes pares en la lista son "+ pares + " y los impares en la lista son "+ impares)
 console.log(pares)
 console.log(impares)
 
